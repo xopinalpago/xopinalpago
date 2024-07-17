@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/11AyYDOVV6K2wE/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/rémy-meriau-520b51163">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
